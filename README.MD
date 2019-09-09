@@ -1,4 +1,4 @@
-# Webscrapping com Python!
+# :chart_with_upwards_trend: Webscrapping com Python x Comparador de Preços!
 ##### Utilizando as bibliotecas [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) e [csv]([https://pypi.org/project/csv/](https://pypi.org/project/csv/)), este script compara o preço de um produto entre lojas virtuais e armazena o resultado em uma planilha. 
 
 ### E como eu uso essa joça?
@@ -12,13 +12,3 @@ Execute os seguintes comandos para criar um ambiente virtual e ativa-lo. É ness
 5. Ative o ambiente virtual `soucre env/Scripts/activate` para SO em Windows. Ou `source env/bin/activate` para SO em Linux
 6. Instale todas as dependências do projeto: `pip install -r requirements.txt`
 8. Agora é só rodar o projeto com `python manage.py runserver`, ou `py manage.py runserver`, ou `./manage.py runserver`, etc 
-
-##### Tecnologias usadas:
-   - HTML5
-   - CSS3
-   - Javascript
-   - Python
-   - Django
-   - Heroku
-
-### :construction: desatualizado pois em manutenção [Acesse o sistema aqui](https://ideias-malucas2.herokuapp.com)
